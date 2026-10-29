@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{p as o,aj as e,a as r,b as s,c as i}from"../chunks/CuPKSCgv.js";import{g as m}from"../chunks/DbCTEXRk.js";import{b as c}from"../chunks/Dl8rbcRI.js";var f=i('<p class="wait svelte-jxxjww">Opening…</p>');function b(p,a){o(a,!0),e(()=>{m(`${c}/studio/pick/picklist/`,{replaceState:!0})});var t=f();r(p,t),s()}export{b as component};

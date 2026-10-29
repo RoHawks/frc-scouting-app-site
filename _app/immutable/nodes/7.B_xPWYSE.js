@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{p as t,aj as e,a as r,b as s,c as m}from"../chunks/CuPKSCgv.js";import{g as i}from"../chunks/DbCTEXRk.js";import{b as c}from"../chunks/Dl8rbcRI.js";var f=m('<p class="wait svelte-1jjpp8m">Opening…</p>');function b(p,a){t(a,!0),e(()=>{i(`${c}/studio/pick/compare/`,{replaceState:!0})});var o=f();r(p,o),s()}export{b as component};

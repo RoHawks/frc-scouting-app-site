@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{p as e,aj as t,a as r,b as s,c as m}from"../chunks/CuPKSCgv.js";import{g as f}from"../chunks/DbCTEXRk.js";import{b as i}from"../chunks/Dl8rbcRI.js";var n=m('<p class="wait svelte-1l181wv">Opening…</p>');function v(a,o){e(o,!0),t(()=>{f(`${i}/home/`,{replaceState:!0})});var p=n();r(a,p),s()}export{v as component};

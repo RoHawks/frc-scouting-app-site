@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{p,aj as t,a as r,b as s,c as m}from"../chunks/CuPKSCgv.js";import{g as i}from"../chunks/DbCTEXRk.js";import{b as c}from"../chunks/Dl8rbcRI.js";var f=m('<p class="wait svelte-6n4cl1">This page moved. Taking you there…</p>');function h(a,o){p(o,!0),t(()=>{i(`${c}/studio/pick/`,{replaceState:!0})});var e=f();r(a,e),s()}export{h as component};
